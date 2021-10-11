@@ -1,0 +1,26 @@
+[NOMBRE DE ZONES]
+Combien=22
+
+[COULEUR]
+ zone1=$00008080
+ zone2=$00808080
+ zone3=$00c0c0c0
+ zone4=$00000080
+ zone5=$000000ff
+ zone6=$0000ffff
+ zone7=$00ff8000
+ zone8=$00ffff80
+ zone9=$00808000
+zone10=$0000ff00
+zone11=$00008000
+zone12=$00404000
+zone13=$0080ff00
+zone14=$00ffff00
+zone15=$00800000
+zone16=$00408080
+zone17=$0080ffff
+zone18=$00ff0000
+zone19=$00800080
+zone20=$00ff00ff
+zone21=$004080ff
+zone22=$00004080
